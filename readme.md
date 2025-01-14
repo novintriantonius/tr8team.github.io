@@ -1,1 +1,1 @@
-This is example project subdomain takeover heygotrade.tr8.tech
+This is example subdomain takeover heygotrade.tr8.tech
